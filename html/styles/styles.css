@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    color: azure;
+    line-height: 1.8em;
+    background-color: green;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    color: firebrick;
+    line-height: 1.4em;
+    background-color: goldenrod;
+}
